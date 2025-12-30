@@ -1,0 +1,10 @@
+[
+    {
+        "name": "RTX 4090",
+        "url": "https://example.com/products/rtx-4090"
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "url": "https://example.com/products/ryzen-9-7950x"
+    }
+]
